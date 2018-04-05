@@ -63,6 +63,9 @@
 
 /* USER CODE BEGIN PV */
 /* Private variables ---------------------------------------------------------*/
+FATFS SDFatFs;  /* File system object for SD card logical drive */
+FIL MyFile;     /* File object */
+char SDPath[4]; /* SD card logical drive path */
 
 /* USER CODE END PV */
 
@@ -71,6 +74,8 @@ void SystemClock_Config(void);
 
 /* USER CODE BEGIN PFP */
 /* Private function prototypes -----------------------------------------------*/
+void SystemClock_Config(void);
+extern void initialise_monitor_handles(void);
 
 /* USER CODE END PFP */
 
@@ -112,19 +117,116 @@ int main(void)
   MX_FATFS_Init();
   MX_CAN_Init();
   /* USER CODE BEGIN 2 */
+	initialise_monitor_handles();
+
+	FRESULT res;                                          /* FatFs function common result code */
+	uint32_t byteswritten, bytesread;                     /* File write/read counts */
+	uint8_t wtext[] = "This is STM32 working with FatFs"; /* File write buffer */
+	uint8_t rtext[100];                                   /* File read buffer */
+
+
+	printf("link ok\n");
+	/*##-2- Register the file system object to the FatFs module ##############*/
+	if(f_mount(&SDFatFs, (TCHAR const*)SDPath, 0) != FR_OK)
+	{
+		/* FatFs Initialization Error */
+		Error_Handler();
+	}
+	else
+	{
+		printf("mount ok\n");
+
+		/*##-3- Create a FAT file system (format) on the logical drive #########*/
+		/* WARNING: Formatting the uSD card will delete all content on the device */
+		res = f_mkfs((TCHAR const*)SDPath, 0, 0);
+		if(res != FR_OK){
+			printf("%x\n",res);
+			/* FatFs Format Error */
+			Error_Handler();
+		}
+		else
+		{
+			printf("format ok\n");
+
+			/*##-4- Create and Open a new text file object with write access #####*/
+			if(f_open(&MyFile, "STM32.TXT", FA_CREATE_ALWAYS | FA_WRITE) != FR_OK)
+			{
+				/* 'STM32.TXT' file Open for write Error */
+				Error_Handler();
+			}
+			else
+			{
+				printf("create and open ok\n");
+
+				/*##-5- Write data to the text file ################################*/
+				res = f_write(&MyFile, wtext, sizeof(wtext), (void *)&byteswritten);
+
+				/*##-6- Close the open text file #################################*/
+				if (f_close(&MyFile) != FR_OK )
+				{
+					Error_Handler();
+				}
+				printf("close ok\n");
+
+
+				if((byteswritten == 0) || (res != FR_OK))
+				{
+					/* 'STM32.TXT' file Write or EOF Error */
+					Error_Handler();
+				}
+				else
+				{
+					/*##-7- Open the text file object with read access ###############*/
+					if(f_open(&MyFile, "STM32.TXT", FA_READ) != FR_OK)
+					{
+						/* 'STM32.TXT' file Open for read Error */
+						Error_Handler();
+					}
+					else
+					{
+						/*##-8- Read data from the text file ###########################*/
+						res = f_read(&MyFile, rtext, sizeof(rtext), (UINT*)&bytesread);
+
+						if((bytesread == 0) || (res != FR_OK))
+						{
+							/* 'STM32.TXT' file Read or EOF Error */
+							Error_Handler();
+						}
+						else
+						{
+							/*##-9- Close the open text file #############################*/
+							f_close(&MyFile);
+
+							/*##-10- Compare read data with the expected data ############*/
+							if((bytesread != byteswritten))
+							{
+								/* Read data is different from the expected data */
+								Error_Handler();
+							}
+							else
+							{
+								/* Success of the demo: no error occurrence */
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
 
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  while (1)
-  {
+	while (1)
+	{
 
   /* USER CODE END WHILE */
 
   /* USER CODE BEGIN 3 */
 
-  }
+	}
   /* USER CODE END 3 */
 
 }
@@ -191,10 +293,10 @@ void SystemClock_Config(void)
 void _Error_Handler(char *file, int line)
 {
   /* USER CODE BEGIN Error_Handler_Debug */
-  /* User can add his own implementation to report the HAL error return state */
-  while(1)
-  {
-  }
+	/* User can add his own implementation to report the HAL error return state */
+	while(1)
+	{
+	}
   /* USER CODE END Error_Handler_Debug */
 }
 
@@ -209,7 +311,7 @@ void _Error_Handler(char *file, int line)
 void assert_failed(uint8_t* file, uint32_t line)
 { 
   /* USER CODE BEGIN 6 */
-  /* User can add his own implementation to report the file name and line number,
+	/* User can add his own implementation to report the file name and line number,
      tex: printf("Wrong parameters value: file %s on line %d\r\n", file, line) */
   /* USER CODE END 6 */
 }
