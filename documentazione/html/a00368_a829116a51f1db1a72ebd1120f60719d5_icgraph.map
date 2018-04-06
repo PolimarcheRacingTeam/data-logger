@@ -1,0 +1,7 @@
+<map id="_Error_Handler" name="_Error_Handler">
+<area shape="rect" id="node2" href="$a00359.html#a03ef280a9a742709bd002c92b8b80a1c" title="MX_CAN_Init" alt="" coords="200,5,302,31"/>
+<area shape="rect" id="node4" href="$a00368.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration. " alt="" coords="178,55,323,80"/>
+<area shape="rect" id="node5" href="$a00374.html#af81398f9775695df0b172367651ca3e6" title="MX_SPI1_Init" alt="" coords="199,104,302,129"/>
+<area shape="rect" id="node6" href="$a00392.html#a052088fe5bb3f807a4b2502e664fd4fd" title="MX_USART2_UART_Init" alt="" coords="166,153,336,179"/>
+<area shape="rect" id="node3" href="$a00368.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point. " alt="" coords="384,80,434,105"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="HAL_GPIO_Init" name="HAL_GPIO_Init">
+<area shape="rect" id="node2" href="$a00359.html#a2778ce7f3a2de42769b6de9fec4cedb9" title="HAL_CAN_MspInit" alt="" coords="171,5,304,31"/>
+<area shape="rect" id="node3" href="$a00365.html#ac724e431d2af879252de35615be2bdea" title="MX_GPIO_Init" alt="" coords="183,55,291,80"/>
+<area shape="rect" id="node5" href="$a00916.html#ga17f583be14b22caffa6c4e56dcd035ef" title="HAL_SPI_MspInit" alt="" coords="174,104,300,129"/>
+<area shape="rect" id="node6" href="$a00942.html#ga0e553b32211877322f949b14801bbfa7" title="HAL_UART_MspInit" alt="" coords="167,153,308,179"/>
+<area shape="rect" id="node4" href="$a00368.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point. " alt="" coords="356,55,406,80"/>
+</map>

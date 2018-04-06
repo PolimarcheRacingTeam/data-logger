@@ -1,0 +1,5 @@
+<map id="SD_IO_WriteCmd" name="SD_IO_WriteCmd">
+<area shape="rect" id="node2" href="$a00839.html#gafe6c612029e83cf7cd1a5a5140b845b6" title="Writes a byte on the SD. " alt="" coords="195,5,322,31"/>
+<area shape="rect" id="node3" href="$a00839.html#ga8e4c4c8f986666533d5271f67dd3b0ce" title="Waits response from the SD card. " alt="" coords="181,55,336,80"/>
+<area shape="rect" id="node4" href="$a00839.html#ga207f7159e60e751bf386867b88e2c9a3" title="Reads a byte from the SD. " alt="" coords="384,55,511,80"/>
+</map>

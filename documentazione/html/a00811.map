@@ -1,0 +1,7 @@
+<map id="HAL" name="HAL">
+<area shape="rect" id="node1" href="$a00516.html" title="HAL Exported Constants" alt="" coords="318,5,486,31"/>
+<area shape="rect" id="node2" href="$a00862.html" title="HAL_Private_Macros" alt="" coords="328,55,476,80"/>
+<area shape="rect" id="node4" href="$a00521.html" title="HAL Exported Macros" alt="" coords="326,104,478,129"/>
+<area shape="rect" id="node6" href="$a00863.html" title="HAL Exported Functions" alt="" coords="319,153,485,179"/>
+<area shape="rect" id="node5" href="$a00861.html" title="STM32F3xx_HAL_Driver" alt="" coords="5,80,175,105"/>
+</map>

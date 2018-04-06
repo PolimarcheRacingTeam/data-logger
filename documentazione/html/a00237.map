@@ -1,0 +1,25 @@
+<map id="Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal.c" name="Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal.c">
+<area shape="rect" id="node2" href="$a00170.html" title="This file contains all the functions prototypes for the HAL module driver. " alt="" coords="801,92,919,117"/>
+<area shape="rect" id="node3" href="$a00317.html" title="HAL configuration file. " alt="" coords="784,165,936,191"/>
+<area shape="rect" id="node4" href="$a00305.html" title=": Header for main.c file. This file contains the common defines of the application. " alt="" coords="5,239,67,264"/>
+<area shape="rect" id="node5" href="$a00212.html" title="Header file of RCC HAL module. " alt="" coords="91,239,234,264"/>
+<area shape="rect" id="node10" href="$a00194.html" title="Header file of GPIO HAL module. " alt="" coords="294,239,445,264"/>
+<area shape="rect" id="node12" href="$a00182.html" title="Header file of DMA HAL module. " alt="" coords="541,239,693,264"/>
+<area shape="rect" id="node14" href="$a00176.html" title="Header file of CORTEX HAL module. " alt="" coords="728,312,890,337"/>
+<area shape="rect" id="node15" href="$a00173.html" title="Header file of CAN HAL module. " alt="" coords="786,239,934,264"/>
+<area shape="rect" id="node16" href="$a00188.html" title="Header file of Flash HAL module. " alt="" coords="958,239,1112,264"/>
+<area shape="rect" id="node18" href="$a00200.html" title="Header file of I2C HAL module. " alt="" coords="1135,239,1278,264"/>
+<area shape="rect" id="node20" href="$a00206.html" title="Header file of PWR HAL module. " alt="" coords="1345,239,1492,264"/>
+<area shape="rect" id="node22" href="$a00218.html" title="Header file of SPI HAL module. " alt="" coords="1590,239,1733,264"/>
+<area shape="rect" id="node24" href="$a00230.html" title="Header file of UART HAL module. " alt="" coords="1827,239,1976,264"/>
+<area shape="rect" id="node6" href="$a00179.html" title="This file contains HAL common defines, enumeration, macros and structures definitions. " alt="" coords="981,385,1126,411"/>
+<area shape="rect" id="node9" href="$a00215.html" title="Header file of RCC HAL Extension module. " alt="" coords="43,312,208,337"/>
+<area shape="rect" id="node7" href="$a00113.html" title="CMSIS STM32F3xx Device Peripheral Access Layer Header File. " alt="" coords="956,459,1049,484"/>
+<area shape="rect" id="node11" href="$a00197.html" title="Header file of GPIO HAL Extended module. " alt="" coords="283,312,456,337"/>
+<area shape="rect" id="node13" href="$a00185.html" title="Header file of DMA HAL extension module. " alt="" coords="531,312,704,337"/>
+<area shape="rect" id="node17" href="$a00191.html" title="Header file of Flash HAL Extended module. " alt="" coords="966,312,1141,337"/>
+<area shape="rect" id="node19" href="$a00203.html" title="Header file of I2C HAL Extended module. " alt="" coords="1216,312,1381,337"/>
+<area shape="rect" id="node21" href="$a00209.html" title="Header file of PWR HAL Extended module. " alt="" coords="1456,312,1624,337"/>
+<area shape="rect" id="node23" href="$a00221.html" title="Header file of SPI HAL Extended module. " alt="" coords="1699,312,1864,337"/>
+<area shape="rect" id="node25" href="$a00233.html" title="Header file of UART HAL Extended module. " alt="" coords="1939,312,2109,337"/>
+</map>

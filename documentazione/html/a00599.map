@@ -1,0 +1,15 @@
+<map id="I2C Exported Constants" name="I2C Exported Constants">
+<area shape="rect" id="node1" href="$a00609.html" title="I2C Start or Stop Mode" alt="" coords="341,5,498,31"/>
+<area shape="rect" id="node2" href="$a00608.html" title="I2C Reload End Mode" alt="" coords="343,55,496,80"/>
+<area shape="rect" id="node3" href="$a00600.html" title="I2C Sequential Transfer\l Options" alt="" coords="339,104,500,143"/>
+<area shape="rect" id="node5" href="$a00602.html" title="I2C Dual Addressing Mode" alt="" coords="330,167,510,192"/>
+<area shape="rect" id="node7" href="$a00610.html" title="I2C Interrupt definition Elements values convention: 0xXXXXXXXX. " alt="" coords="332,216,507,255"/>
+<area shape="rect" id="node8" href="$a00607.html" title="I2C Transfer Direction\l Master Point of View" alt="" coords="344,279,495,317"/>
+<area shape="rect" id="node9" href="$a00603.html" title="I2C Own Address2 Masks" alt="" coords="332,341,507,367"/>
+<area shape="rect" id="node10" href="$a00611.html" title="I2C Flag definition" alt="" coords="355,391,484,416"/>
+<area shape="rect" id="node11" href="$a00605.html" title="I2C No&#45;Stretch Mode" alt="" coords="346,440,493,465"/>
+<area shape="rect" id="node12" href="$a00601.html" title="I2C Addressing Mode" alt="" coords="345,489,494,515"/>
+<area shape="rect" id="node13" href="$a00606.html" title="I2C Memory Address Size" alt="" coords="332,539,507,564"/>
+<area shape="rect" id="node14" href="$a00604.html" title="I2C General Call Addressing Mode" alt="" coords="306,588,533,613"/>
+<area shape="rect" id="node6" href="$a00816.html" title="I2C HAL module driver. " alt="" coords="5,313,47,339"/>
+</map>

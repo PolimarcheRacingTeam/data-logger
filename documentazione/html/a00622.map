@@ -1,0 +1,8 @@
+<map id="PWR Exported Constants" name="PWR Exported Constants">
+<area shape="rect" id="node1" href="$a00627.html" title="PWR Flag" alt="" coords="371,5,453,31"/>
+<area shape="rect" id="node2" href="$a00626.html" title="PWR STOP mode entry" alt="" coords="330,55,493,80"/>
+<area shape="rect" id="node3" href="$a00624.html" title="PWR Regulator state\l in STOP mode" alt="" coords="338,104,485,143"/>
+<area shape="rect" id="node5" href="$a00623.html" title="PWR WakeUp Pins" alt="" coords="343,167,480,192"/>
+<area shape="rect" id="node7" href="$a00625.html" title="PWR SLEEP mode entry" alt="" coords="327,216,496,241"/>
+<area shape="rect" id="node6" href="$a00899.html" title="PWR" alt="" coords="5,111,58,136"/>
+</map>

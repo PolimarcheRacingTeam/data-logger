@@ -1,0 +1,4 @@
+<map id="MX_FATFS_Init" name="MX_FATFS_Init">
+<area shape="rect" id="node2" href="$a00344.html#a22cb96382f68c2f6b7ea8184c7f06b1a" title="Links a compatible diskio driver and increments the number of active linked drivers. &#160;&#160;" alt="" coords="168,5,297,31"/>
+<area shape="rect" id="node3" href="$a00344.html#a7295ae1eccd7de39fff7cb85120ec6a2" title="Links a compatible diskio driver/lun id and increments the number of active linked drivers..." alt="" coords="345,5,490,31"/>
+</map>

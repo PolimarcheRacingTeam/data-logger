@@ -1,0 +1,5 @@
+<map id="CAN_TypeDef" name="CAN_TypeDef">
+<area shape="rect" id="node2" href="$a00978.html" title="Controller Area Network FilterRegister. " alt="" coords="5,5,142,44"/>
+<area shape="rect" id="node3" href="$a00970.html" title="Controller Area Network TxMailBox. " alt="" coords="165,12,342,37"/>
+<area shape="rect" id="node4" href="$a00974.html" title="Controller Area Network FIFOMailBox. " alt="" coords="366,12,557,37"/>
+</map>

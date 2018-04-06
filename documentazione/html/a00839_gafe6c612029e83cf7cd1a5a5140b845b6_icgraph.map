@@ -1,0 +1,6 @@
+<map id="SD_IO_WriteByte" name="SD_IO_WriteByte">
+<area shape="rect" id="node2" href="$a00839.html#ga6e267a2663e4350443288024c5fc7cd3" title="Initializes the SD Card and put it into StandBy State (Ready for data transfer). " alt="" coords="209,5,296,31"/>
+<area shape="rect" id="node4" href="$a00839.html#ga3a86437d4ba6c1161a4493c778518516" title="Sends 5 bytes command to the SD card and get response. " alt="" coords="189,55,316,80"/>
+<area shape="rect" id="node5" href="$a00839.html#gac9f311f0ced046361ecbd9eb8a776298" title="Sends dummy byte with CS High. " alt="" coords="180,104,325,129"/>
+<area shape="rect" id="node3" href="$a00838.html#ga3d12270ffa22c857ec7a0fd9893bf881" title="Initializes the SD/SD communication. " alt="" coords="373,5,472,31"/>
+</map>
