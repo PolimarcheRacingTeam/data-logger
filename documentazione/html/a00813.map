@@ -1,8 +1,0 @@
-<map id="CORTEX" name="CORTEX">
-<area shape="rect" id="node1" href="$a00536.html" title="CORTEX private functions. " alt="" coords="357,5,541,31"/>
-<area shape="rect" id="node2" href="$a00534.html" title="CORTEX Private Macros" alt="" coords="364,55,533,80"/>
-<area shape="rect" id="node3" href="$a00866.html" title="CORTEX_Exported_Functions" alt="" coords="348,104,550,129"/>
-<area shape="rect" id="node4" href="$a00530.html" title="CORTEX Exported Types" alt="" coords="362,153,535,179"/>
-<area shape="rect" id="node7" href="$a00531.html" title="CORTEX Exported Constants" alt="" coords="350,203,548,228"/>
-<area shape="rect" id="node6" href="$a00861.html" title="STM32F3xx_HAL_Driver" alt="" coords="5,104,175,129"/>
-</map>

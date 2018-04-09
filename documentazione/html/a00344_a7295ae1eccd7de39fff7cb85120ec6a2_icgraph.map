@@ -1,5 +1,0 @@
-<map id="FATFS_LinkDriverEx" name="FATFS_LinkDriverEx">
-<area shape="rect" id="node2" href="$a00347.html#a22cb96382f68c2f6b7ea8184c7f06b1a" title="Links a compatible diskio driver and increments the number of active linked drivers. &#160;&#160;" alt="" coords="198,5,327,31"/>
-<area shape="rect" id="node3" href="$a00362.html#a3712bd1d3043334cf9343acc30bd2604" title="MX_FATFS_Init" alt="" coords="375,5,490,31"/>
-<area shape="rect" id="node4" href="$a00368.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point. " alt="" coords="538,5,588,31"/>
-</map>

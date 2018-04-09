@@ -1,8 +1,0 @@
-<map id="GPIO" name="GPIO">
-<area shape="rect" id="node1" href="$a00582.html" title="GPIO Exported Constants" alt="" coords="326,5,501,31"/>
-<area shape="rect" id="node2" href="$a00581.html" title="GPIO Exported Types" alt="" coords="338,55,489,80"/>
-<area shape="rect" id="node3" href="$a00861.html" title="STM32F3xx_HAL_Driver" alt="" coords="5,104,175,129"/>
-<area shape="rect" id="node4" href="$a00888.html" title="GPIO Private Macros" alt="" coords="340,104,487,129"/>
-<area shape="rect" id="node5" href="$a00889.html" title="GPIO Exported Functions" alt="" coords="327,153,500,179"/>
-<area shape="rect" id="node7" href="$a00587.html" title="GPIO Exported Macros" alt="" coords="334,203,493,228"/>
-</map>

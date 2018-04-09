@@ -1,5 +1,0 @@
-<map id="HAL_GPIO_DeInit" name="HAL_GPIO_DeInit">
-<area shape="rect" id="node2" href="$a00359.html#a4b39e42353b2781bc75d83c018640b67" title="HAL_CAN_MspDeInit" alt="" coords="188,5,338,31"/>
-<area shape="rect" id="node3" href="$a00916.html#gabadc4d4974af1afd943e8d13589068e1" title="HAL_SPI_MspDeInit" alt="" coords="191,55,335,80"/>
-<area shape="rect" id="node4" href="$a00942.html#ga718f39804e3b910d738a0e1e46151188" title="HAL_UART_MspDeInit" alt="" coords="184,104,342,129"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="BSP_SD_Init" name="BSP_SD_Init">
-<area shape="rect" id="node2" href="$a00831.html#ga6e267a2663e4350443288024c5fc7cd3" title="Initializes the SD Card and put it into StandBy State (Ready for data transfer). " alt="" coords="152,5,239,31"/>
-<area shape="rect" id="node3" href="$a00839.html#gafe6c612029e83cf7cd1a5a5140b845b6" title="Writes a byte on the SD. " alt="" coords="287,5,413,31"/>
-</map>

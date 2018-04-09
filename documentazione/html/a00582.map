@@ -1,7 +1,0 @@
-<map id="GPIO Exported Constants" name="GPIO Exported Constants">
-<area shape="rect" id="node2" href="$a00586.html" title="GPIO Pull&#45;Up or Pull&#45;Down Activation. " alt="" coords="339,5,418,31"/>
-<area shape="rect" id="node4" href="$a00584.html" title="GPIO Configuration Mode Elements values convention: 0xX0yz00YZ. " alt="" coords="333,55,425,80"/>
-<area shape="rect" id="node5" href="$a00583.html" title="GPIO pins" alt="" coords="337,104,420,129"/>
-<area shape="rect" id="node6" href="$a00585.html" title="GPIO Output Maximum frequency. " alt="" coords="331,153,426,179"/>
-<area shape="rect" id="node3" href="$a00815.html" title="GPIO HAL module driver. " alt="" coords="5,80,60,105"/>
-</map>

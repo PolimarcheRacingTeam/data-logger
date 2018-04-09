@@ -1,4 +1,0 @@
-<map id="SD_IO_ReadByte" name="SD_IO_ReadByte">
-<area shape="rect" id="node2" href="$a00839.html#ga8e4c4c8f986666533d5271f67dd3b0ce" title="Waits response from the SD card. " alt="" coords="181,5,336,31"/>
-<area shape="rect" id="node3" href="$a00839.html#ga3a86437d4ba6c1161a4493c778518516" title="Sends 5 bytes command to the SD card and get response. " alt="" coords="384,5,511,31"/>
-</map>

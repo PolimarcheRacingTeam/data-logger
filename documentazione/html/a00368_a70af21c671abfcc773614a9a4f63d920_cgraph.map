@@ -1,9 +1,0 @@
-<map id="SystemClock_Config" name="SystemClock_Config">
-<area shape="rect" id="node2" href="$a00909.html#ga9c504088722e03830df6caad932ad06b" title="HAL_RCC_OscConfig" alt="" coords="235,5,388,31"/>
-<area shape="rect" id="node3" href="$a00368.html#a829116a51f1db1a72ebd1120f60719d5" title="This function is executed in case of error occurrence. " alt="" coords="255,55,368,80"/>
-<area shape="rect" id="node4" href="$a00909.html#gad0a4b5c7459219fafc15f3f867563ef3" title="HAL_RCC_ClockConfig" alt="" coords="230,104,393,129"/>
-<area shape="rect" id="node5" href="$a00867.html#gac3a3f0d53c315523a8e6e7bcac1940cf" title="HAL_SYSTICK_Config" alt="" coords="233,153,390,179"/>
-<area shape="rect" id="node6" href="$a00910.html#ga38d6c5c7a5d8758849912c9aa0a2156d" title="HAL_RCC_GetHCLKFreq" alt="" coords="224,203,399,228"/>
-<area shape="rect" id="node7" href="$a00868.html#ga3284dc8428996f5b6aa6b3b99e643788" title="HAL_SYSTICK_CLKSourceConfig" alt="" coords="198,252,424,277"/>
-<area shape="rect" id="node8" href="$a00867.html#ga8581a82025a4780efd00876a66e3e91b" title="HAL_NVIC_SetPriority" alt="" coords="234,301,389,327"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="SysTick_Handler" name="SysTick_Handler">
-<area shape="rect" id="node2" href="$a00865.html#gaa8361d44d76b7f6256834f828165837a" title="HAL_IncTick" alt="" coords="222,5,318,31"/>
-<area shape="rect" id="node3" href="$a00868.html#ga5b66b62383261c1e0acef98d344aa4c1" title="HAL_SYSTICK_IRQHandler" alt="" coords="175,55,365,80"/>
-</map>

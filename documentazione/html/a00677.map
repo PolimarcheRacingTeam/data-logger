@@ -1,7 +1,0 @@
-<map id="RCC Extended Exported Constants" name="RCC Extended Exported Constants">
-<area shape="rect" id="node1" href="$a00911.html" title="RCCEx" alt="" coords="5,103,71,128"/>
-<area shape="rect" id="node2" href="$a00679.html" title="RCC Extended Periph\l Clock Selection" alt="" coords="357,5,509,44"/>
-<area shape="rect" id="node3" href="$a00680.html" title="RCC Extended MCOx Clock\l Prescaler" alt="" coords="339,68,527,107"/>
-<area shape="rect" id="node4" href="$a00681.html" title="RCC LSE Drive Configuration" alt="" coords="334,131,531,156"/>
-<area shape="rect" id="node5" href="$a00678.html" title="RCC Extended MCO Clock\l Source" alt="" coords="342,180,524,219"/>
-</map>

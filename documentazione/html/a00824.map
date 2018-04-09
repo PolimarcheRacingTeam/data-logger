@@ -1,9 +1,0 @@
-<map id="TIMEx" name="TIMEx">
-<area shape="rect" id="node2" href="$a00760.html" title="TIM Private Macros" alt="" coords="355,5,492,31"/>
-<area shape="rect" id="node3" href="$a00764.html" title="TIMEx Private Functions" alt="" coords="340,55,507,80"/>
-<area shape="rect" id="node4" href="$a00762.html" title="TIMEx Exported Constants" alt="" coords="333,104,514,129"/>
-<area shape="rect" id="node5" href="$a00763.html" title="TIMEx Exported Macros" alt="" coords="341,153,506,179"/>
-<area shape="rect" id="node7" href="$a00761.html" title="TIMEx Exported Types" alt="" coords="346,203,502,228"/>
-<area shape="rect" id="node8" href="$a00933.html" title="TIMEx_Exported_Functions" alt="" coords="331,252,517,277"/>
-<area shape="rect" id="node6" href="$a00861.html" title="STM32F3xx_HAL_Driver" alt="" coords="5,129,175,155"/>
-</map>
