@@ -1,5 +1,0 @@
-<map id="arm_dct4_instance_q15" name="arm_dct4_instance_q15">
-<area shape="rect" id="node2" href="$a01158.html" title="Instance structure for the Q15 CFFT/CIFFT function. " alt="" coords="5,92,205,117"/>
-<area shape="rect" id="node3" href="$a01190.html" title="Instance structure for the Q15 RFFT/RIFFT function. " alt="" coords="230,92,383,117"/>
-<area shape="rect" id="node4" href="$a01178.html" title="Instance structure for the fixed&#45;point CFFT/CIFFT function. " alt="" coords="229,5,385,31"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="RCCEx" name="RCCEx">
-<area shape="rect" id="node1" href="$a00682.html" title="RCC Extended Exported\l Macros" alt="" coords="349,5,516,44"/>
-<area shape="rect" id="node3" href="$a00913.html" title="RCCEx_Exported_Functions" alt="" coords="337,68,528,93"/>
-<area shape="rect" id="node5" href="$a00676.html" title="RCCEx Exported Types" alt="" coords="352,117,513,143"/>
-<area shape="rect" id="node6" href="$a00912.html" title="RCCEx_Private_Macros" alt="" coords="350,167,515,192"/>
-<area shape="rect" id="node7" href="$a00677.html" title="RCC Extended Exported\l Constants" alt="" coords="349,216,516,255"/>
-<area shape="rect" id="node4" href="$a00861.html" title="STM32F3xx_HAL_Driver" alt="" coords="5,117,175,143"/>
-</map>

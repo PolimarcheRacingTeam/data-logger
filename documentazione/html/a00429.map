@@ -1,8 +1,0 @@
-<map id="Functions and Instructions Reference" name="Functions and Instructions Reference">
-<area shape="rect" id="node2" href="$a00436.html" title="Functions that access the ITM debug interface. " alt="" coords="252,5,358,31"/>
-<area shape="rect" id="node3" href="$a00430.html" title="Functions that manage interrupts and exceptions via the NVIC. " alt="" coords="248,55,362,80"/>
-<area shape="rect" id="node4" href="$a00437.html" title="Function that provides FPU type. " alt="" coords="250,104,360,129"/>
-<area shape="rect" id="node5" href="$a00438.html" title="Functions that configure Instruction and Data cache. " alt="" coords="244,153,366,179"/>
-<area shape="rect" id="node6" href="$a00431.html" title="Functions that configure the System. " alt="" coords="241,203,370,228"/>
-<area shape="rect" id="node7" href="$a00417.html" title="CMSIS Core Register\l Access Functions" alt="" coords="230,252,380,291"/>
-</map>

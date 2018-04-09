@@ -1,6 +1,0 @@
-<map id="UARTEx" name="UARTEx">
-<area shape="rect" id="node1" href="$a00808.html" title="UARTEx Exported Constants" alt="" coords="346,5,540,31"/>
-<area shape="rect" id="node3" href="$a00810.html" title="UARTEx Private Macros" alt="" coords="361,55,526,80"/>
-<area shape="rect" id="node4" href="$a00947.html" title="UARTEx_Exported_Functions" alt="" coords="344,104,543,129"/>
-<area shape="rect" id="node5" href="$a00861.html" title="STM32F3xx_HAL_Driver" alt="" coords="5,55,175,80"/>
-</map>
