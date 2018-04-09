@@ -124,7 +124,7 @@ int main(void)
 	uint8_t wtext[] = "This is STM32 working with FatFs"; /* File write buffer */
 	uint8_t rtext[100];                                   /* File read buffer */
 
-	printf("start\n");
+
 	printf("link ok\n");
 	/*##-2- Register the file system object to the FatFs module ##############*/
 	if(f_mount(&SDFatFs, (TCHAR const*)SDPath, 0) != FR_OK)
